@@ -1,0 +1,119 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.NewTechtrends_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.NewTechtrends_mainDiv img
+{
+  width: 100%;
+}
+
+.NewTechtrends_mainDiv hr
+{
+    width: 230px; 
+}
+
+.NewTechtrends_mainDiv h5 , .NewTechtrends_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.PredictionsOfTechnology_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.PredictionsOfTechnology_head i
+{
+float: right;
+}
+
+.PredictionsOfTechnology_text span
+{
+color: #ff7700;
+}
+
+
+.InnovativeTechnologicalIdeasForTheFuture_li
+{
+  margin-top: 13px;
+}
+
+.InnovativeTechnologicalIdeasForTheFuture_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.InnovativeTechnologicalIdeasForTheFuture_li img
+{
+  border-radius: 25px;
+}
+
+.InnovativeTechnologicalIdeasForTheFuture_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.RecentScienceBreakthroughs
+{
+  cursor: pointer;
+}
+
+.RecentScienceBreakthroughs hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+
+
